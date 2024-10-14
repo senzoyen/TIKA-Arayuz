@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>Misya Logo4.1.png</file>
+    <file>indir.jpeg</file>
+  </qresource>
+</RCC>
